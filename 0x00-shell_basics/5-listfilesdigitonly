@@ -1,4 +1,3 @@
 #!/bin/bash
-vdir -n
-vdir -a
+vdir -na
 
