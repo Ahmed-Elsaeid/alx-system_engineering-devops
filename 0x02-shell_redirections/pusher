@@ -3,5 +3,5 @@
 git add .
 git commit -m "Autocommit"
 git push
-username:Ahmed-Elsaeid
-password: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
+git clone https://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@github.com/Ahmed-Elsaeid/alx-pre_course.git
+
